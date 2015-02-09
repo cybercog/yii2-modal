@@ -1,1 +1,4 @@
-# yii2-modal
+yii2-modal
+==========
+
+WIP...
